@@ -1,0 +1,33 @@
+station_id,expansion_reason,quarters_above_threshold,deviation_level,quarters_count,most_recent_quarter,latest_trips_per_bike
+3010,Above 3σ in 4 quarters (avg 4.5σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",3,4,2024Q4,3.221138211382114
+3032,Above 3σ in 3 quarters (avg 3.4σ above mean),"2024Q2, 2024Q3, 2024Q4",3,3,2024Q4,2.611565420560748
+3359,Above 2σ in 3 quarters (avg 2.4σ above mean),"2024Q2, 2024Q3, 2024Q4",2,3,2024Q4,2.3790175864160097
+3244,Above 2σ in 2 quarters (avg 2.7σ above mean),"2024Q3, 2024Q4",2,2,2024Q4,2.2690058479532165
+3066,Above 2σ in 3 quarters (avg 2.2σ above mean),"2024Q2, 2024Q3, 2024Q4",2,3,2024Q4,2.229486324216144
+3020,Above 2σ in 2 quarters (avg 2.2σ above mean),"2024Q3, 2024Q4",2,2,2024Q4,2.2019607843137257
+3208,Above 1σ in 4 quarters (avg 1.8σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,2.195009848982272
+3295,Above 3σ in 1 quarters (avg 3.1σ above mean),2024Q1,3,1,2024Q1,2.185137732222934
+3054,Above 2σ in 2 quarters (avg 2.1σ above mean),"2024Q3, 2024Q4",2,2,2024Q4,2.173368490441661
+3101,Above 2σ in 2 quarters (avg 2.2σ above mean),"2024Q3, 2024Q4",2,2,2024Q4,2.146960587842351
+3022,Above 2σ in 2 quarters (avg 2.1σ above mean),"2024Q2, 2024Q4",2,2,2024Q4,2.123989218328841
+3323,Above 3σ in 2 quarters (avg 4.1σ above mean),"2024Q1, 2024Q2",3,2,2024Q2,2.0789473684210527
+3362,Above 1σ in 3 quarters (avg 1.7σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,2.078484438430311
+3028,Above 1σ in 4 quarters (avg 1.8σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,2.071476285905144
+3063,Above 1σ in 4 quarters (avg 1.6σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,2.0553250345781464
+3059,Above 1σ in 3 quarters (avg 1.7σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,2.046153846153846
+3163,Above 1σ in 3 quarters (avg 2.0σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,2.041095890410959
+3012,Above 1σ in 4 quarters (avg 1.6σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,2.038569424964937
+3185,Above 1σ in 3 quarters (avg 1.7σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,2.019151846785226
+3046,Above 1σ in 4 quarters (avg 1.6σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,2.007451564828614
+3007,Above 1σ in 4 quarters (avg 1.6σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,1.9906943450250536
+3030,Above 1σ in 3 quarters (avg 1.3σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,1.9777777777777776
+3161,Above 1σ in 3 quarters (avg 1.4σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,1.9592541436464088
+3052,Above 1σ in 4 quarters (avg 1.5σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,1.951824817518248
+3102,Above 1σ in 3 quarters (avg 1.3σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,1.9441219158200287
+3203,Above 1σ in 4 quarters (avg 1.2σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,1.935436537050624
+3301,Above 1σ in 3 quarters (avg 1.2σ above mean),"2024Q2, 2024Q3, 2024Q4",1,3,2024Q4,1.9210893854748603
+3038,Above 1σ in 3 quarters (avg 1.1σ above mean),"2024Q1, 2024Q2, 2024Q4",1,3,2024Q4,1.900455927051672
+3356,Above 3σ in 1 quarters (avg 4.3σ above mean),2024Q2,3,1,2024Q2,1.8604651162790695
+3296,Above 1σ in 4 quarters (avg 1.6σ above mean),"2024Q1, 2024Q2, 2024Q3, 2024Q4",1,4,2024Q4,1.8451612903225807
+3278,Above 3σ in 1 quarters (avg 3.5σ above mean),2024Q1,3,1,2024Q1,1.3404255319148937
+3366,Above 3σ in 1 quarters (avg 10.0σ above mean),2024Q1,3,1,2024Q1,1.25

@@ -1,0 +1,185 @@
+year_quarter,category,sub_category,total_duration,total_trips
+2022Q4,Day Pass,electric,227059,5527
+2022Q4,Day Pass,standard,192463,4976
+2022Q4,Indego30,electric,1018211,73848
+2022Q4,Indego30,standard,1094214,69138
+2022Q4,Indego365,electric,254355,21679
+2022Q4,Indego365,standard,377887,31820
+2020Q1,Day Pass,electric,61564,1189
+2020Q1,Day Pass,standard,350615,6507
+2020Q1,Indego30,electric,254831,10468
+2020Q1,Indego30,standard,1268986,68566
+2020Q1,Indego365,electric,66364,2588
+2020Q1,Indego365,standard,402252,28865
+2020Q1,IndegoFlex,electric,10,1
+2020Q1,IndegoFlex,standard,110,6
+2018Q4,Day Pass,electric,2667,48
+2018Q4,Day Pass,standard,590588,13408
+2018Q4,Indego30,electric,64195,1425
+2018Q4,Indego30,standard,1807250,99864
+2018Q4,Indego365,electric,15220,570
+2018Q4,Indego365,standard,417904,26461
+2018Q4,IndegoFlex,electric,193,4
+2018Q4,IndegoFlex,standard,16660,758
+2018Q4,Walk-up,electric,41,2
+2018Q4,Walk-up,standard,8901,332
+2021Q4,Day Pass,electric,235367,7276
+2021Q4,Day Pass,standard,283641,8519
+2021Q4,Indego30,electric,1044715,68162
+2021Q4,Indego30,standard,1523999,95864
+2021Q4,Indego365,electric,199079,15200
+2021Q4,Indego365,standard,355927,27933
+2021Q4,Walk-up,electric,60,1
+2020Q2,Day Pass,electric,809487,10353
+2020Q2,Day Pass,standard,2109865,27812
+2020Q2,Indego30,electric,1195116,33886
+2020Q2,Indego30,standard,2847470,96019
+2020Q2,Indego365,electric,89782,4149
+2020Q2,Indego365,standard,269125,14366
+2020Q2,IndegoFlex,standard,45,1
+2020Q3,Day Pass,electric,590555,8810
+2020Q3,Day Pass,standard,1456440,26720
+2020Q3,Indego30,electric,1219347,46073
+2020Q3,Indego30,standard,3548380,157858
+2020Q3,Indego365,electric,130315,6077
+2020Q3,Indego365,standard,423556,24447
+2022Q2,Day Pass,electric,331306,7820
+2022Q2,Day Pass,standard,561522,14077
+2022Q2,Indego30,electric,1157844,65355
+2022Q2,Indego30,standard,2158009,115251
+2022Q2,Indego365,electric,226801,17122
+2022Q2,Indego365,standard,478122,37725
+2018Q3,Day Pass,standard,1697384,37362
+2018Q3,Indego30,standard,3111383,157601
+2018Q3,Indego365,standard,512405,31561
+2018Q3,IndegoFlex,standard,39728,1446
+2018Q3,Walk-up,standard,11298,359
+2022Q3,Day Pass,electric,453926,11244
+2022Q3,Day Pass,standard,507331,12892
+2022Q3,Indego30,electric,1490896,92431
+2022Q3,Indego30,standard,2342116,132477
+2022Q3,Indego365,electric,279045,22007
+2022Q3,Indego365,standard,511071,41285
+2022Q1,Day Pass,electric,116584,2863
+2022Q1,Day Pass,standard,150557,3922
+2022Q1,Indego30,electric,660507,40189
+2022Q1,Indego30,standard,765534,46594
+2022Q1,Indego365,electric,148338,12553
+2022Q1,Indego365,standard,278576,22951
+2022Q1,Walk-up,electric,1,1
+2020Q4,Day Pass,electric,141420,3065
+2020Q4,Day Pass,standard,421634,9267
+2020Q4,Indego30,electric,608096,28492
+2020Q4,Indego30,standard,1917553,95907
+2020Q4,Indego365,electric,74612,4649
+2020Q4,Indego365,standard,309216,19021
+2024Q4,Day Pass,electric,298391,6282
+2024Q4,Day Pass,standard,179768,4429
+2024Q4,Indego30,electric,1217452,90213
+2024Q4,Indego30,standard,1118802,69682
+2024Q4,Indego365,electric,813308,68305
+2024Q4,Indego365,standard,534105,44385
+2024Q4,IndegoFlex,electric,13,1
+2024Q4,Walk-up,electric,368076,9815
+2024Q4,Walk-up,standard,186598,4844
+2024Q1,Day Pass,electric,210523,4492
+2024Q1,Day Pass,standard,90626,2474
+2024Q1,Indego30,electric,942380,72494
+2024Q1,Indego30,standard,715717,42324
+2024Q1,Indego365,electric,435685,36976
+2024Q1,Indego365,standard,420773,35010
+2024Q3,Day Pass,electric,595327,14130
+2024Q3,Day Pass,standard,334370,8755
+2024Q3,Indego30,electric,1826693,134788
+2024Q3,Indego30,standard,1779549,105069
+2024Q3,Indego365,electric,927159,79052
+2024Q3,Indego365,standard,647407,53306
+2024Q3,Walk-up,electric,358780,8869
+2024Q3,Walk-up,standard,174001,4439
+2024Q2,Day Pass,electric,615617,13966
+2024Q2,Day Pass,standard,285837,6960
+2024Q2,Indego30,electric,2102276,136777
+2024Q2,Indego30,standard,1747147,95132
+2024Q2,Indego365,electric,800752,65754
+2024Q2,Indego365,standard,621517,49502
+2021Q3,Day Pass,electric,581183,15968
+2021Q3,Day Pass,standard,710949,21555
+2021Q3,Indego30,electric,1304772,75106
+2021Q3,Indego30,standard,2440370,141842
+2021Q3,Indego365,electric,200096,13846
+2021Q3,Indego365,standard,428281,32113
+2021Q3,Walk-up,electric,60,1
+2021Q3,Walk-up,standard,100,1
+2021Q2,Day Pass,electric,363151,8570
+2021Q2,Day Pass,standard,730508,17853
+2021Q2,Indego30,electric,982322,48048
+2021Q2,Indego30,standard,2347087,122487
+2021Q2,Indego365,electric,116424,7890
+2021Q2,Indego365,standard,386029,27338
+2021Q2,Walk-up,electric,314,3
+2021Q2,Walk-up,standard,190,6
+2019Q4,Day Pass,electric,100680,2334
+2019Q4,Day Pass,standard,409775,9265
+2019Q4,Indego30,electric,671680,23984
+2019Q4,Indego30,standard,1555940,92087
+2019Q4,Indego365,electric,84092,5349
+2019Q4,Indego365,standard,451357,33053
+2019Q4,IndegoFlex,electric,247,25
+2019Q4,IndegoFlex,standard,252,19
+2023Q4,Day Pass,electric,300302,7521
+2023Q4,Day Pass,standard,180800,4850
+2023Q4,Indego30,electric,1387435,104915
+2023Q4,Indego30,standard,1201943,71979
+2023Q4,Indego365,electric,468395,39963
+2023Q4,Indego365,standard,519575,42990
+2021Q1,Day Pass,electric,110962,2620
+2021Q1,Day Pass,standard,236074,5568
+2021Q1,Indego30,electric,384002,19670
+2021Q1,Indego30,standard,921390,48377
+2021Q1,Indego365,electric,62499,4571
+2021Q1,Indego365,standard,234287,15474
+2019Q1,Day Pass,electric,5858,67
+2019Q1,Day Pass,standard,427560,8816
+2019Q1,Indego30,electric,84825,1732
+2019Q1,Indego30,standard,1132142,61512
+2019Q1,Indego365,electric,13486,523
+2019Q1,Indego365,standard,338559,23341
+2019Q1,IndegoFlex,electric,113,8
+2019Q1,IndegoFlex,standard,9417,452
+2019Q1,Walk-up,electric,22,1
+2019Q1,Walk-up,standard,4089,141
+2023Q3,Day Pass,electric,628908,14670
+2023Q3,Day Pass,standard,372803,9588
+2023Q3,Indego30,electric,1966799,134163
+2023Q3,Indego30,standard,1862563,105432
+2023Q3,Indego365,electric,503955,42309
+2023Q3,Indego365,standard,576921,47094
+2023Q1,Day Pass,electric,146923,3764
+2023Q1,Day Pass,standard,117979,2710
+2023Q1,Indego30,electric,773958,58354
+2023Q1,Indego30,standard,803703,46985
+2023Q1,Indego365,electric,267941,23038
+2023Q1,Indego365,standard,365600,31949
+2019Q2,Day Pass,electric,48262,1089
+2019Q2,Day Pass,standard,1426837,33108
+2019Q2,Indego30,electric,507509,10595
+2019Q2,Indego30,standard,2321528,122749
+2019Q2,Indego365,electric,27225,1502
+2019Q2,Indego365,standard,526087,36341
+2019Q2,IndegoFlex,electric,449,13
+2019Q2,IndegoFlex,standard,21965,838
+2019Q2,Walk-up,standard,4564,84
+2023Q2,Day Pass,electric,625937,14371
+2023Q2,Day Pass,standard,384207,9608
+2023Q2,Indego30,electric,1549850,103995
+2023Q2,Indego30,standard,1637974,88804
+2023Q2,Indego365,electric,392948,33109
+2023Q2,Indego365,standard,523238,42007
+2019Q3,Day Pass,electric,279249,5901
+2019Q3,Day Pass,standard,1222117,28557
+2019Q3,Indego30,electric,2297589,46532
+2019Q3,Indego30,standard,2657886,146681
+2019Q3,Indego365,electric,122157,7052
+2019Q3,Indego365,standard,588727,40419
+2019Q3,IndegoFlex,electric,226,19
+2019Q3,IndegoFlex,standard,345,36
